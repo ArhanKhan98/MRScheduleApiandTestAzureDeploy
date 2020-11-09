@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell_pc\\source\\repos\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj": {}
+    "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell_pc\\source\\repos\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj": {
+    "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell_pc\\source\\repos\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj",
+        "projectUniqueName": "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj",
         "projectName": "MedicalRepresentativeSchedule",
-        "projectPath": "C:\\Users\\Dell_pc\\source\\repos\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj",
+        "projectPath": "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj",
         "packagesPath": "C:\\Users\\Dell_pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell_pc\\source\\repos\\MedicalRepresentativeSchedule\\obj\\",
+        "outputPath": "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\MedicalRepresentativeSchedule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell_pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\Dell_pc\\source\\repos\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj": {
+    "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell_pc\\source\\repos\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj",
+        "projectUniqueName": "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj",
         "projectName": "NUnitTestMRSchedule",
-        "projectPath": "C:\\Users\\Dell_pc\\source\\repos\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj",
+        "projectPath": "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj",
         "packagesPath": "C:\\Users\\Dell_pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell_pc\\source\\repos\\NUnitTestMRSchedule\\obj\\",
+        "outputPath": "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\NUnitTestMRSchedule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell_pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Dell_pc\\source\\repos\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj": {
-                "projectPath": "C:\\Users\\Dell_pc\\source\\repos\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj"
+              "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj": {
+                "projectPath": "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\MedicalRepresentativeSchedule\\MedicalRepresentativeSchedule.csproj"
               }
             }
           }

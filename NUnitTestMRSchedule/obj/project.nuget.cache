@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQi3CyxrGgHfadbbFuFW9o2gh/nXy93DIUzcMGktd62huQ0UA8ppKciM24gm9xAkKfVW/AKWSRs6rLjj1RJ0CQ==",
+  "dgSpecHash": "poghBQB1650Kdlquwc3hrUfZXaHNm4fpSCYqQFUZDsd1erX9whW3zAMoAs7RXE6tQocNtduO9uICx/YCXe9nOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell_pc\\source\\repos\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj",
+  "projectFilePath": "C:\\Users\\Dell_pc\\Source\\Repos\\MRScheduleApiandTestAzureDeploy\\NUnitTestMRSchedule\\NUnitTestMRSchedule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell_pc\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Dell_pc\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
